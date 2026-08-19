@@ -1,0 +1,31 @@
+# Blog Layout Website
+
+A simple and professional blog layout website built using **HTML and CSS**. It provides a clean and structured layout for displaying blog posts and content.
+
+## Features
+
+* Clean and modern design
+* Navigation bar
+* Blog post layout
+* Featured content section
+* Categories section
+* Responsive layout
+* Simple and user-friendly interface
+
+## Technologies Used
+
+* HTML5
+* CSS3
+
+## How to Run
+
+1. Download or clone the repository.
+2. Open `index.html` in any web browser.
+
+## Purpose
+
+This project was created to practice front-end web development and build a structured and responsive blog layout using HTML and CSS.
+
+## Author
+
+**Simran**
