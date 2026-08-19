@@ -1,0 +1,30 @@
+# Shopping Website
+
+A simple and professional static shopping website built using **HTML and CSS**. The website provides a clean interface for browsing and displaying shopping products.
+
+## Features
+
+* Clean and responsive design
+* Product listing section
+* Product images and details
+* Navigation bar
+* Shopping categories
+* Simple and user-friendly interface
+
+## Technologies Used
+
+* HTML5
+* CSS3
+
+## How to Run
+
+1. Download or clone the repository.
+2. Open `index.html` in any web browser.
+
+## Purpose
+
+This project was created to practice front-end web development using HTML and CSS and to build a simple static shopping website.
+
+## Author
+
+**Simran**
